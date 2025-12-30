@@ -235,19 +235,19 @@ $stats = hh_site_stats();
         <div class="hh-reviews-grid hh-reviews-grid--wide">
             <figure class="hh-review-card">
                 <blockquote>
-                    It feels more like a personal check-in space than another social app fighting for my attention.
-                </blockquote>
+                    It feels more like a personal check-in space than another social app fighting for my attention.
+                </blockquote
                 <figcaption>Second-year student</figcaption>
             </figure>
             <figure class="hh-review-card">
                 <blockquote>
-                    Being able to share under an anonymous label makes it easier to actually be honest.
+                    Being able to share under an anonymous label makes it easier to actually be honest.
                 </blockquote>
                 <figcaption>Community beta tester</figcaption>
             </figure>
             <figure class="hh-review-card">
                 <blockquote>
-                    The interface is quiet. I come here at night to decompress instead of doomscrolling.
+                    The interface is quiet. I come here at night to decompress instead of doomscrolling.
                 </blockquote>
                 <figcaption>Working professional</figcaption>
             </figure>
